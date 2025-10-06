@@ -10,7 +10,7 @@ A Python-based command-line chatbot that guides users through common Git tasks, 
 
 **Clone the repository**  
 ```bash
-git clone [https://github.com/ay283/git-helper-chatbot](https://github.com/ay283/git-helper-chatbot)
+git clone https://github.com/ay283/git-helper-chatbot.git
 cd git-helper-chatbot
 ```
 
