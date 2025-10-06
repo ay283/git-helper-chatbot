@@ -39,6 +39,30 @@ Loops: Allow retries for invalid inputs and ensure smooth user experience
 
 ## Example Usage
 
+**Introduction**
+
+![Introduction Example](images/main-menu.png)
+
+**Merge Conflict**
+
+![Merge Conflict Example](images/merge-conflict.png)
+
+**Push Error**
+
+![Push Error Example](images/push-error.png)
+
+**Pull Error**
+
+![Pull Error Example](images/pull-error.png)
+
+**Undoing a Commit**
+
+![Undoing a Commit Example](images/undo-commit.png)
+
+**Other Issue**
+
+![Other Issue Example](images/other-issue.png)
+
 ## Notes
 
 Designed for beginner and intermediate Git users
