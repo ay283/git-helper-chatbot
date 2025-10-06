@@ -154,8 +154,6 @@ def handle_other():
     return
 
 
-# --- Main Chatbot Loop ---
-
 def git_helper_chatbot():
     """Displays menu options and routes user input to correct handler"""
 
@@ -186,8 +184,6 @@ def git_helper_chatbot():
         else:
             type_print("\nThat's not an option. Please enter 1, 2, 3, 4, or 5.\n")
 
-
-# --- Entry Point ---
 
 if __name__ == "__main__":
     # Start chatbot when file is executed
